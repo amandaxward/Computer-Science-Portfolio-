@@ -1,1 +1,7 @@
 # Computer-Science-Portfolio-
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+Interpreting user needs is done by adding what the customer wants, such as in the SNHU Travel project, we had implemented the users wants such as adding in Top Five Destinations. User Stories help with this by having feedback from the user/testers. We can create a chart and have listed what the user would like to see in the program.
+How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+For me personally I approach them by having a basic layout, usually written, of what needs to be done. I keep a list to the side of what I need to do to start out and what I would like for the finish result to be. I found this to be useful in my Python class when it came to developing a simple point-and-click video game. I really hope to incorporate the scrum into any future development work, and also the flexibility that the agile process allows. 
+What does it mean to be a good team member in software development?
+I feel like to be a good team member, I will need to have great time management. Projects are sent in milestones at a time and I feel like it is important to keep that in mind and stick to the time schedule. I also feel like communication is very important. No one wants to work with someone who will not communicate with them and keeps them in the dark throughout the process. 
